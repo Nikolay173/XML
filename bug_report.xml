@@ -1,1 +1,26 @@
-
+<root>
+  <Bug_id:>102</Bug_id:>
+  <Severity:>Minor</Severity:>
+  <Priority:> low</Priority:>
+  <Environment:>1)Redmi Note 8 M1908C3JG ; Android 10</Environment:>
+  <Precondition:>
+    <Open_the_App>STR:</Open_the_App>
+  </Precondition:>
+  <Precondition:>
+    <2)Hide> application</2)Hide>
+    <1)Click_button>“Add widget”</1)Click_button>
+    <3)Look_the_widget> icon</3)Look_the_widget>
+  </Precondition:>
+  <Precondition:>AR parameters Height(H) and Width(W) are set to, 0&#x27;</Precondition:>
+  <Precondition:>
+    <ER_the_parameters_Height_(H)_and_Width_(W)_are_in_values>in relation to the screen resolution settings that the user has set</ER_the_parameters_Height_(H)_and_Width_(W)_are_in_values>
+  </Precondition:>
+  <Precondition:>
+    <Attachments_https//drive.google.com/file/d/1vQ_dc2Dkg2FlycsTAk9e5Qx1jw9_6N3T/view?usp=sharing:>
+      <status>O, God, the operation completed sucessfuly</status>
+    </Attachments_https//drive.google.com/file/d/1vQ_dc2Dkg2FlycsTAk9e5Qx1jw9_6N3T/view?usp=sharing:>
+  </Precondition:>
+  <Title:Widget_Icon:>”widget size values”,widget</Title:Widget_Icon:>
+  <height_and_width_set_to>0</height_and_width_set_to>
+  <Telegram_nickname:>@VladislavDunin</Telegram_nickname:>
+</root>
