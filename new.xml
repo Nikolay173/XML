@@ -1,1 +1,7 @@
-
+<root>
+   <age>42</age>
+   <first_Name>Nikolay</first_Name>
+   <future_desired_salary>2000</future_desired_salary>
+   <last_Name>Kuzmin</last_Name>
+   <pets>no</pets>
+</root>
